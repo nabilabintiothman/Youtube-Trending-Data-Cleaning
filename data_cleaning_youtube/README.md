@@ -1,0 +1,3 @@
+This is a simple data cleaning project which I did when I started learning Python. The dataset is called 'trending youtube videos statistic' which you can find in Kaggle website. I chose to do only the first file which is the GBvideos.csv.
+
+I replaced all the missing values, remove duplicated rows and fix the columns data types that is not accurate. Towards the end of this notebook, I saved the edited file as csv and I also did some simple data extraction.
